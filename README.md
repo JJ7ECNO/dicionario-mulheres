@@ -13,7 +13,7 @@ Feito com HTML, CSS e Javascript
      <img src="/prints-da-pagina/pag-demo1.png" alt="print de demonstração da página"/> 
       <img src="/prints-da-pagina/pag-demo2.png" alt="print de demonstração da página"/>
       
-      Tela responsiva:
+      <h4>Tela responsiva:</h4>
       
       <img src="/prints-da-pagina/pag-demo3.png" alt="print de demonstração da página"/> 
      <img src="/prints-da-pagina/pag-demo4.png" alt="print de demonstração da página"/>  
