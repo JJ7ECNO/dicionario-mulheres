@@ -25,3 +25,19 @@ Feito com HTML, CSS e Javascript
    <img src="/prints-da-pagina/pag-demo5.png" width="325" alt="print de demonstração da página"/> 
 
 </details>
+
+<details>
+ <summary>Para visualizar o site acesse o link do deploy</summary>
+  <p>
+  
+   Link do site no replit:
+  
+  https://dicionario-de-mulheres-negras-html-css-js.jj7ecno.repl.co/
+
+   Link do repositório do projeto no github:
+
+   [Dicionário de Mulheres Negras (jj7ecno.github.io)](https://jj7ecno.github.io/dicionario-mulheres/) (por algum motivo o link do deploy no hithub não está mostrando o site corretamente, mas o código é o mesmo que está no replit, onde podem ver. Na página do github tem os prints no readme, para vê-lo também finalizado. 
+https://github.com/JJ7ECNO/dicionario-mulheres (link do repô)
+  
+  </p>
+</details>
