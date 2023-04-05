@@ -6,6 +6,7 @@ Este projeto é um dicionário de mulheres negras que fizeram e fazem parte da h
 
 Feito com HTML, CSS e Javascript
 
+
 <details>
 
  <summary>Prints do site</summary>
