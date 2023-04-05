@@ -1,4 +1,4 @@
-# dicionario-mulheres
+# DICIONÁRIO DE MULHERES
 
 ## Projeto final do curso EuProgramo Front-End II da progra{m}aria <img src="https://www.programaria.org/wp-content/uploads/2015/08/logo-04.png" alt="logo programaria"/>
 
